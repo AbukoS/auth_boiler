@@ -20,4 +20,4 @@ This authentication scheme uses a simple token-based HTTP [Authentication](https
 [Django-rest-auth](https://django-rest-auth.readthedocs.io/en/latest/) doesn't lag behind as it also provides a set of REST API endpoints for Authentication and Registration.
 
 ### Semantic UI-React
-[Semantic UI](https://react.semantic-ui.com/)Semantic UI is a react library for theming websites. Semantic UI enables building websites with fast and concise HTML, along with a complete mobile responsive experience. Semantic UI also offers an assortment of resusable components that really speed up the web development process
+[Semantic UI](https://react.semantic-ui.com/) is a react library for theming websites. Semantic UI enables building websites with fast and concise HTML, along with a complete mobile responsive experience. Semantic UI also offers an assortment of resusable components that really speed up the web development process
